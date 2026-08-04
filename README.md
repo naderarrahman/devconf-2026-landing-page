@@ -127,6 +127,7 @@ Future updates will focus on responsiveness, accessibility, and additional UI en
 **Nader Ar Rahman**
 
 - GitHub: https://github.com/naderarrahman
+- LinkedIn: https://www.linkedin.com/in/naderarrahman/
 
 ---
 
